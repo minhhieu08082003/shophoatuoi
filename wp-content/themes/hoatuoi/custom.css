@@ -1,0 +1,271 @@
+/* .top-header */
+.custom-logo{
+    height: 70px;
+    width: 20px;
+}
+.top-header a, .top-header{
+    color:#446084;
+    font-display: none;
+
+}
+#bg-primary{
+    background: #446084 !important  ;
+
+}
+#bg-primary a{
+    color: white ;
+    text-align: center;
+}
+.hotlien{
+    padding-top: 10px;
+    text-align: center;
+    padding-left: 290px;
+    padding-bottom: -1px;
+}
+.hotlien a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 10px;
+}
+.socie a{
+    padding-top: 4px;
+    color: white;
+    padding-left: 60px;
+    
+}
+.socie{
+    padding-top: 7px ;
+    margin-left: 30px;
+}
+button {
+    color: black;
+    font-size: 15px;
+    height: 35px;
+    width: 250px;
+}
+.slider{
+    padding-top: 70px;
+}
+/* end-top-hearde */
+/* menu */
+.block-menu{
+    margin-top: 30px;
+    background: white;
+
+}
+.block-menu li{
+    padding:10px;
+    }
+.block-menu {
+    margin-top: 25px;
+}
+.block-menu li a{
+color:  #446084;
+font-weight: bold;
+font-size: 15px;
+}
+.block-menu ul.sub-menu{
+    display: flex;
+}
+.block-menu :hover{
+    color: red;
+}
+.block-menu a:hover {
+    background: #361c1c;
+    color: rgb(255, 2, 2);
+   
+}
+.block-menu a{
+    background-color: white !important;
+}
+/* over-menu */
+/* intro */
+.item-info {
+    text-align: center;
+}
+/* over-intro */
+/* sanpham */
+p.lh2-title{
+	margin-bottom: 30px;
+	border-bottom: solid 1px #0b76ce;
+    text-align: center;
+}
+p.lh2-title span{
+	line-height: 35px;
+	font-weight: bold;
+	display: inline-block;
+	text-transform: uppercase;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+/* product */
+.phare {
+    max-width: 1190px;
+    margin-left: 129px;
+    margin-right: 100px;
+}
+
+.phare h1 {
+    padding: 0 15px;
+    font-size: 60px;
+    color: brown;
+}
+
+.phare .bottom-link a {
+    font-size: 15px;
+    font-style: italic;
+    float: right;
+    cursor: pointer;
+    color: #0e38aa;
+}
+
+.phare .box-product {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+/* PRODUCT  */
+
+.product {
+    width: 227px;
+    transition: all 0.5s;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.product .badge-sale {
+    position: absolute;
+    left: 0;
+    top: 35px;
+    line-height: 1;
+    margin-top: 0;
+    background-color: orange;
+    font-size: 20px;
+    padding: 5px;
+    margin: 22px;
+    color: white;
+}
+
+.product .name_product {
+    text-align: center;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    color: rgb(247, 180, 36);
+    line-height: 40px;
+    padding-left: 70px;
+    padding-top: -20px;
+
+}
+
+.product .img_product {
+    display: block;
+    padding: 25px;
+    width: 300px;
+    height: 330px;
+}
+img.img_product {
+    width: 300px;
+    height: 330px;
+}
+
+.product .read_product {
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.product .read_product a {
+    color: rgb(153, 153, 153);
+    transition: color;
+    font-style: italic;
+}
+
+.product .group {
+    display: flex;
+}
+
+.product .group span {
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    padding-left: 46px;
+}
+.sale_product {
+    font-size: 10/px;
+    text-decoration: line-through;
+    color: rgb(73, 54, 54);
+
+}
+
+.product_price {
+    font-size: 15px;
+    color: rgb(48, 30, 30);
+    text-align: center;
+}
+
+.product_price1 {
+    font-size: 15px;
+    color: red;
+    text-align: center;
+
+}
+p.price {
+    font-size: 15px;
+    color: red;
+    text-align: center;
+}
+p.price1 {
+    font-size: 13px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.name_product1 {
+    text-align: center;
+    font-size: 20px;
+    color: gold;
+    padding-left: 65px;
+    padding-top: 58px;
+}
+div#danhmucchinh {
+    list-style: none;
+   
+}
+.block-footer .a{
+    color: white;
+}
+.block-footer{
+    background-color: #446084!important;
+}
+#danhmucchinh li a{
+    color: white;
+    display: inline-block !important;
+}
+.phanket h4 {
+    font-size: 1.5rem;
+    color: red;
+    text-align: center;
+    padding: 10px 0px;
+    font-weight: 600;
+}
+.phanket p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 2px 50px;
+}
+.phanket{
+    background-color: rgba(239,239,239,0.38);
+    padding: 20px 0px;
+}
+#bottom2 .bottom-link a{
+    text-align: center !important;
+}
+

@@ -1,0 +1,172 @@
+.bg-primary{
+    background-color: rgb(199, 113, 16) !important;
+    height: 50px;
+}
+.custom-logo{
+    height: 70px;
+    width: 20px;
+}
+.top-header a, .top-header{
+    color: rgb(99, 22, 22);
+    font-display: none;
+
+}
+#bg-primary a{
+    color: white ;
+}
+.hotlien{
+    padding-top: 10px;
+}
+.hotlien a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 10px;
+}
+.socie button{
+    padding-top: 4px;
+    background-color: white;
+    
+}
+.socie{
+    padding-top: 7px ;
+    margin-left: 30px;
+}
+button {
+    color: black;
+    font-size: 15px;
+    height: 35px;
+    width: 250px;
+}
+.footer-bg{
+    padding-top: 30px;
+}
+.footer-bg a{
+    text-decoration: none;
+
+    color: white;
+}
+.footer-info{
+    background-color: rgb(70, 50, 9);
+}    
+.footer-info .site-info{
+    padding: 20px;
+    color: white;
+}   
+.footer-info .site-info a{
+    color: white;
+}
+.post, .page{
+    margin: 0px !important;
+}
+.footer-widget {
+    background-color: white;
+    border-top: 1px solid ;
+    padding-top: 15px;
+}
+.footer-widget .menu li{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.footer-widget .menu{
+    margin: 0px;
+}
+.footer-info{
+    background-color: black;
+}
+.block-footer {
+    background-color:  rgb(199, 113, 16) !important;
+    padding-top: 30px;
+}
+
+
+.col-lg-3.col-md-6.col-sm-6.col-12.item {
+    color: white;
+    font-size: 18px;
+    font-style: none;
+    text-decoration: none;
+}
+.site-branding{
+padding-top:15px; 
+padding-bottom: 15px;
+}
+.site-branding img{
+width: 120px;
+}
+#primary-menu li{
+padding:10px;
+}
+#primary-menu {
+margin-top: 25px;
+}
+#primary-menu li a{
+color: rgb(197, 68, 17);
+font-weight: bold;
+font-size: 18px;
+}
+#primary-menu ul.sub-menu{
+    display: flex;
+}
+#primary-menu :hover{
+    color: red;
+}
+#primary-menu a:hover {
+    background: #361c1c;
+    color: rgb(255, 2, 2);
+    font-size: 20px;
+}
+#primary-menu a{
+    background-color: white !important;
+}
+.site-footer{ 
+background: black;
+color: white;
+text-align: center;
+}
+.site-footer a{
+color: white;
+text-decoration: none;
+}
+.block-footer {
+    background-color: rgb(70, 50, 9);
+}
+.title p{
+    color: white;
+}
+.gioithieu{
+    padding-top: 30px;
+    background: rgb(#abb8c3);
+    padding-right: 50px;
+}
+span.elementor-drop-cap {
+    font-size: 50px;
+}
+.dichvu{
+    padding-top: 30px;
+    background: white;
+    padding-left: 50px;
+}
+.block-intro{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    padding-top: 50px;
+}
+.item-info a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.form {
+    color: rgb(199, 113, 16);
+    height: 350px;
+    width: 500px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.anhdaidien img{
+    height: 350px;
+    width: 600px;
+    padding-top: 30px;
+}
